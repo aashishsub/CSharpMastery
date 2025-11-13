@@ -1,0 +1,15 @@
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/bin/Debug/net10.0/NumberGuessingGame
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/bin/Debug/net10.0/NumberGuessingGame.deps.json
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/bin/Debug/net10.0/NumberGuessingGame.runtimeconfig.json
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/bin/Debug/net10.0/NumberGuessingGame.dll
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/bin/Debug/net10.0/NumberGuessingGame.pdb
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.AssemblyInfoInputs.cache
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.AssemblyInfo.cs
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.csproj.CoreCompileInputs.cache
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.sourcelink.json
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.dll
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/obj/Debug/net10.0/refint/NumberGuessingGame.dll
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.pdb
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/obj/Debug/net10.0/NumberGuessingGame.genruntimeconfig.cache
+/Users/aashish/Desktop/CSharpMastery/Projects/NumberGuessingGame/obj/Debug/net10.0/ref/NumberGuessingGame.dll
